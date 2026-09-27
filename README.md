@@ -1,11 +1,11 @@
-# Local Speed Reading Site
+# Speed Reading Site
 
-This repository hosts the public website and privacy policy for the **Local Speed Reading** Android application.
+This repository hosts the public website and privacy policy for the **Speed Reading Trainer** Android application.
 
 ## Pages
 
-- Website: https://arkanmgerges.github.io/local-speed-reading-site/
-- Privacy Policy: https://arkanmgerges.github.io/local-speed-reading-site/privacy-policy.html
+- Website: https://arkanmgerges.github.io/speed-reading-site/
+- Privacy Policy: https://arkanmgerges.github.io/speed-reading-site/privacy-policy.html
 
 ## Purpose
 
